@@ -1,0 +1,1 @@
+<div id="top"><?php echo "<img src='".base_url()."/public/admin/css/images/logo23.png' />"?></div>
